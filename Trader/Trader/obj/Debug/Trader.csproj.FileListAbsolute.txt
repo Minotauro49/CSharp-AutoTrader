@@ -1,0 +1,13 @@
+E:\Desktop\AutoTrade\Trader\Trader\bin\Debug\Trader.exe.config
+E:\Desktop\AutoTrade\Trader\Trader\bin\Debug\Trader.exe
+E:\Desktop\AutoTrade\Trader\Trader\bin\Debug\Trader.pdb
+E:\Desktop\AutoTrade\Trader\Trader\obj\Debug\Trader.csprojAssemblyReference.cache
+E:\Desktop\AutoTrade\Trader\Trader\obj\Debug\Trader.Properties.Resources.resources
+E:\Desktop\AutoTrade\Trader\Trader\obj\Debug\Trader.csproj.GenerateResource.cache
+E:\Desktop\AutoTrade\Trader\Trader\obj\Debug\Trader.csproj.CoreCompileInputs.cache
+E:\Desktop\AutoTrade\Trader\Trader\obj\Debug\Trader.exe
+E:\Desktop\AutoTrade\Trader\Trader\obj\Debug\Trader.pdb
+E:\Desktop\AutoTrade\Trader\Trader\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\Desktop\AutoTrade\Trader\Trader\obj\Debug\Trader.csproj.CopyComplete
+E:\Desktop\AutoTrade\Trader\Trader\obj\Debug\Trader.AutoTrade.resources
+E:\Desktop\AutoTrade\Trader\Trader\obj\Debug\Trader.AutoTrade2.resources
